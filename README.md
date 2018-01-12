@@ -1,4 +1,4 @@
-# PDOCruid
+# PDOCrud
 
 /*
  * DB Class to reduce the complexity of PDO
