@@ -8,6 +8,6 @@
  * @url       http://www.webtechsolutionsdurg.com
  * Date 12-01-2018
  */
- The mail logic is inside the dbConnect_new.php file and an example of complete crud is on index.php file 
+ The main logic is inside the dbConnect_new.php file and an example of complete crud is on index.php file 
  Required database is inside the database folder
  
